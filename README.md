@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center"> Hi There! My name is Róger 🍚 </h1>
 
-<!--
-**Robison-Aranha/Robison-Aranha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=F55BF2&size=30&center=true&vCenter=true&width=1000&lines=I+Like+To+Code+👨‍💻;And+Cooffe+:%29" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li><b>Name:</b> Róger Gabriel</li>
+        <li><b>Profession:</b> Full Stack Developer - LuizaLabs 🏢 </li>
+        <li><b>Likes:</b> Code, Cooffe, Rice, Counter-Strike and Barbecue</li>
+        <li><b>Graduation:</b> Currently studying ADS 
+        - Systems Analysis and Development </li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://tenor.com/pt-PT/view/coffee-overflow-spill-drink-kobuyasu-gif-16826930.gif" width="500" alt="coffee gif" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center" >  Knowledges </h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%2f68ec"/>
+  <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/threejs%20-%23323330.svg?&style=for-the-badge&logo=threedotjs"/>
+  <img src="https://img.shields.io/badge/springBoot%20-%23323330.svg?&style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/postgresql%20-%23323330.svg?&style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux%20-%23323330.svg?&style=for-the-badge&logo=linux"/>
+</div>
+<h1 align="center" >  Contacts </h1>
+<div align="center">
+ <img src="https://img.shields.io/badge/rojooooooooooooooooooooooooooooo%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+ <a href="https://steamcommunity.com/profiles/76561198982561739/">
+   <img src="https://img.shields.io/badge/Rice%20-%23323330.svg?&style=for-the-badge&logo=steam&logoColor=blue"/>
+ </a>
+  <img src="https://img.shields.io/badge/rogergabriel201723@gmail.com%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=$da2c18"/>
+</div>
+
+
+

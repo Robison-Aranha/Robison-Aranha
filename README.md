@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%2f68ec"/>
   <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=pink"/>
   <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/threejs%20-%23323330.svg?&style=for-the-badge&logo=threedotjs"/>

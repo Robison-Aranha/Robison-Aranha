@@ -12,7 +12,7 @@
       <ul>
         <li><b>Name:</b> Róger Gabriel</li>
         <li><b>Profession:</b> Full Stack Developer - LuizaLabs 🏢 </li>
-        <li><b>Likes:</b> Code, Cooffe, Rice, Counter-Strike and Barbecue</li>
+        <li><b>Like:</b> Code, Cooffe, Rice, Counter-Strike and Barbecue</li>
         <li><b>Graduation:</b> Currently studying ADS 
         - Systems Analysis and Development </li>
       </ul>

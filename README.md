@@ -26,17 +26,17 @@
 <h1 align="center" >  Knowledges </h1>
 <div align="center">
   
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%2f68ec"/>
+  <img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript"/>
   <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=pink"/>
+  <img src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css"/>
   <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/threejs%20-%23323330.svg?&style=for-the-badge&logo=threedotjs"/>
   <img src="https://img.shields.io/badge/springBoot%20-%23323330.svg?&style=for-the-badge&logo=springboot"/>
   <img src="https://img.shields.io/badge/postgresql%20-%23323330.svg?&style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/linux%20-%23323330.svg?&style=for-the-badge&logo=linux"/>
 </div>
 <h1 align="center"> Stats </h1>

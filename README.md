@@ -40,10 +40,10 @@
 <h1 align="center" >  Contacts </h1>
 <div align="center">
  <img src="https://img.shields.io/badge/rojooooooooooooooooooooooooooooo%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+ <img src="https://img.shields.io/badge/rogergabriel201723@gmail.com%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=$da2c18"/>
  <a href="https://steamcommunity.com/profiles/76561198982561739/">
    <img src="https://img.shields.io/badge/Rice%20-%23323330.svg?&style=for-the-badge&logo=steam&logoColor=blue"/>
  </a>
-  <img src="https://img.shields.io/badge/rogergabriel201723@gmail.com%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=$da2c18"/>
 </div>
 
 

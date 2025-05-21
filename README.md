@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=openjdk"/>
   <img src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css"/>
   <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/c%20-%23323330.svg?&style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/threejs%20-%23323330.svg?&style=for-the-badge&logo=threedotjs"/>
   <img src="https://img.shields.io/badge/springBoot%20-%23323330.svg?&style=for-the-badge&logo=springboot"/>

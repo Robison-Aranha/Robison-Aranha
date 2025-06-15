@@ -51,11 +51,6 @@
  <a href="https://steamcommunity.com/profiles/76561198982561739/">
   <img src="https://img.shields.io/badge/Rice%20-%2300599C.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
  </a>
- <br>
- <img src="https://img.shields.io/badge/rogergabriel201723@gmail.com%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=$da2c18"/>
- <a href="https://www.linkedin.com/in/rogeralmeidajar/">
-  <img src="https://custom-icon-badges.demolab.com/badge/Róger Almeida-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge"/>
- </a>
 </div>
 
 
